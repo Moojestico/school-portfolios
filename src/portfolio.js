@@ -1,6 +1,6 @@
 const header = {
   // all the properties are optional - can be left empty or deleted
-  homepage: 'https://Moojestico.github.io/school-portfolios',
+  homepage: 'https://school-portfolios-zeta.vercel.app',
   title: 'RV.',
 }
 
@@ -8,7 +8,6 @@ const about = {
   // all the properties are optional - can be left empty or deleted
   name: 'Ricky Villaverde',
   role: 'Data Engineer',
-  picture: 'https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png',
 
   description:
     'Information Technology graduate with experience in data engineering, data analysis, and software development. Proficient in Python, SQL, and google cloud platforms. Passionate about leveraging data to drive insights and solve complex problems.',
